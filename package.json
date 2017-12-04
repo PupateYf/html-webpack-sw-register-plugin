@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-sw-register-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "provide a html-webpack-plugin to register service worker automatically",
   "main": "index.js",
   "directories": {
