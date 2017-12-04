@@ -1,0 +1,21 @@
+{
+  "name": "html-webpack-sw-register-plugin",
+  "version": "1.0.0",
+  "description": "provide a html-webpack-plugin to register service worker automatically",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yatfung Yueng <ice-4.ever@163.com>",
+  "license": "ISC",
+  "dependencies": {
+    "parse5": "^3.0.3",
+    "webpack": "^2.6.1"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1"
+  }
+}
